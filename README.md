@@ -1,1 +1,9 @@
-# Visualising-housing-market-trends-using-tableau
+[Define Problem Statements Template.docx_20250326_135648_0000.pdf](https://github.com/user-attachments/files/19464676/Define.Problem.Statements.Template.docx_20250326_135648_0000.pdf)
+Project Planning Template.docx_20250325_141530_0000.pdf](https://github.com/user-attachments/files/19464692/Project.Planning.Template.docx_20250325_141530_0000.pdf)
+[Project Proposal (Proposed Solution) template.docx_20250324_205048_0000.pdf](https://github.com/user-attachments/files/19464731/Project.Proposal.Proposed.Solution.template.docx_20250324_205048_0000.pdf)
+[Raw Data Sources Identification Report template.pdf](https://github.com/user-attachments/files/19464761/R4aw.Data.Sources.Identification.Report.template.pdf)
+[Data Quality Report template.pdf](https://github.com/user-attachments/files/19464784/Data.Quality.Report.template.pdf)
+[Data Exploration and Preprocessing template - Copy.pdf](https://github.com/user-attachments/files/19464790/Data.Exploration.and.Preprocessing.template.-.Copy.pdf)
+[Business Question and Visualisation Report.pdf](https://github.com/user-attachments/files/19464803/Business.Question.and.Visualisation.Report.pdf)
+[Dashboard Design Template.docx_20250326_140239_0000.pdf](https://github.com/user-attachments/files/19464812/Dashboard.Design.Template.docx_20250326_140239_0000.pdf)
+[Story Design Template.docx_20250326_140126_0000.pdf](https://github.com/user-attachments/files/19464818/Story.Design.Template.docx_20250326_140126_0000.pdf)
