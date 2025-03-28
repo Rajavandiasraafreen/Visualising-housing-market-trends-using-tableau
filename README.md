@@ -19,3 +19,4 @@
 [Flask.zip](https://github.com/user-attachments/files/19509217/Flask.zip)
 [data set.csv](https://github.com/user-attachments/files/19509141/data.set.csv)
 [dashboard and story public links.txt](https://github.com/user-attachments/files/19509468/dashboard.and.story.public.links.txt)
+[Final report.pdf](https://github.com/user-attachments/files/19509811/Final.report.pdf)
